@@ -1,11 +1,12 @@
 <h1 align="left">:wave: Hello there! I'm Pavel Kostrov</h1>
 <h2 align="left">💾 I hope you came here to see my pet projects and invite me to a technical interview</h2>
 
-<h4 align="left">I'm a Frontend Web Developer from Ukraine 💛💙</h4>
-
 <a href="#benitez881-title">
   <img src="https://github-readme-stats.vercel.app/api?username=benitez881&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="benitez881" align="right" />
 </a>
+
+<h4 align="left">I'm a Frontend Web Developer from Ukraine 💛💙</h4
+
 
 - :office: &nbsp;I'm currently study at **[ONPU](https://op.edu.ua/)**
 - :writing_hand: &nbsp;Know how to use **[Typescript](https://www.typescriptlang.org/)**
