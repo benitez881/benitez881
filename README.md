@@ -1,7 +1,17 @@
 <h1 align="left">:wave: Hello there! I'm Pavel Kostrov</h1>
 <h2 align="left">💾 I hope you came here to see my pet projects and invite me to a technical interview</h2>
 
+<h4 align="left">I'm a Frontend Web Developer from Ukraine 💛💙</h4>
 
+<a href="#benitez881-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=benitez881&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="benitez881" align="right" />
+</a>
+
+- :office: &nbsp;I'm currently study at **[ONPU](https://op.edu.ua/)**
+- :writing_hand: &nbsp;Know how to use **[Typescript](https://www.typescriptlang.org/)**
+- :small_airplane: &nbsp;Let's talk more in **[Telegram](https://t.me/benitez881)**
+
+<br>
 
 <h2 align="left" id="benitez881-stack">Tech stack</h2>
 
@@ -109,6 +119,9 @@
 
 - OOP
 - BEM
+
+> Basic knowledge:
+
 - Algorithms and data structure
 - NodeJS
 
@@ -125,6 +138,9 @@
 
 
 <!--
+
+I stole it from )) https://github.com/debabin/debabin
+
 **benitez881/benitez881** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
