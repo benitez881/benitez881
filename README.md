@@ -10,7 +10,7 @@
 
 - :office: &nbsp;I'm currently study at **[ONPU](https://op.edu.ua/)**
 - :writing_hand: &nbsp;Know how to use **[Typescript](https://www.typescriptlang.org/)**
-- :small_airplane: &nbsp;Let's talk more in **[Telegram](https://t.me/benitez881)**
+- :small_airplane: &nbsp;Let's talk more in **[Telegram](https://t.me/pavlokostrov)**
 
 <br>
 
