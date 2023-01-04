@@ -149,9 +149,9 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=benitez881&show_icons=true&locale=en&layout=compact&theme=react" alt="benitez881" />
 </a>
 
-- 📫 &nbsp;**pashakostrov.pk@gmail.com**
+- 📫 &nbsp;**pavlokostrov@gmail.com**
 - :octocat: &nbsp;**[Github](https://github.com/benitez881)**
-- :small_airplane: &nbsp;**[Telegram](https://t.me/benitez881)**
+- :small_airplane: &nbsp;**[Telegram](https://t.me/pavlokostrov)**
 
 <br>
 
