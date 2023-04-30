@@ -1,5 +1,4 @@
 <h1 align="left">:wave: Hello there! I'm Pavel Kostrov</h1>
-<h2 align="left">💾 I hope you came here to see my pet projects and invite me to a technical interview</h2>
 
 <a href="#benitez881-title">
   <img src="https://github-readme-stats.vercel.app/api?username=benitez881&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="benitez881" align="right" />
